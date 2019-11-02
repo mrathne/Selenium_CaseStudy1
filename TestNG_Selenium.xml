@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "testSuite">
+<test name = "Selenium">
+<classes>
+<class name = "TestNG.VerifyLoginTest">
+</class>
+</classes>
+</test>
+</suite>
